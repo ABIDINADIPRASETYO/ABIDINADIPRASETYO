@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ABIDINADIPRASETYO
 - 👀 I’m interested in Android UI/UX Design
 - 🌱 I’m currently learning Flutter and Kotlin 
-- 💞️ I’m looking to collaborate on Android UI/UX Design
+- 💞️ I’m looking to Girlfriend
 - 📫 How to reach me abidinadip@gmail.com
 
 <!---
