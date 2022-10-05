@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABIDINADIPRASETYO
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently Kotlin 
+- 🌱 I’m currently in Kotlin Language
 - 💞️ I’m looking for Remote Android Development Job
 - 📫 How to reach me abidinadip@gmail.com
 
