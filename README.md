@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ABIDINADIPRASETYO
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently work as IT Officer at PT Charoen Pokphand Indonesia Tbk
-- 💞️ I’m looking for Remote Android Development Job
+- 💞️ I’m looking for Freedom
 - 📫 How to reach me abidinadip@gmail.com
 
 <!---
