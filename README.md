@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ABIDINADIPRASETYO
-- 👀 I’m interested on Networking
-- 🌱 I’m currently work as IT Officer at PT Charoen Pokphand Indonesia Tbk
+- 👀 I’m interested on IT Technical Support
+- 🌱 I’m currently work as IT Support at PT Charoen Pokphand Indonesia Tbk
 - 💞️ I’m looking for Freedom
 - 📫 How to reach me abidinadip@gmail.com
 
